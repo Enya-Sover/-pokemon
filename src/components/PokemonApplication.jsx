@@ -27,6 +27,7 @@ let PokemonApplication = ({  }) => {
     };
     pokemonUrl();
   }, [chosenPokemonUrl]);
+  
 
   return (
     <div className="application">
